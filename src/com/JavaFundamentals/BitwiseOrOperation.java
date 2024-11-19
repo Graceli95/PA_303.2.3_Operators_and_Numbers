@@ -1,6 +1,6 @@
 package com.JavaFundamentals;
 
-public class BitwiseOrOperation4 {
+public class BitwiseOrOperation {
     public static void main(String[] args) {
         int x = 7;
         int y = 17;

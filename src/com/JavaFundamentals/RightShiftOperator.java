@@ -1,6 +1,6 @@
 package com.JavaFundamentals;
 
-public class RightShiftOperator2 {
+public class RightShiftOperator {
     public static void main(String[] args) {
         int testValue[] = {150, 225, 1555, 32456};
         for (int value : testValue) {

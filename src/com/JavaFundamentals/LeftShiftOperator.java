@@ -1,6 +1,6 @@
 package com.JavaFundamentals;
 
-public class LeftShiftOperator1 {
+public class LeftShiftOperator {
     public static void main(String[] args) {
         int y = 2;
         System.out.println("initial value (binary): " +  Integer.toBinaryString(y));
